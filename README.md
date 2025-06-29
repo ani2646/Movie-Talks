@@ -3,8 +3,7 @@
 CineMatch is a movie recommendation system that suggests what films you should watch next based on your preferences and viewing history.
 
 ## Contributors:
-* Chetanya Mahana
-* Aviral Sharma
+* Akshat Goyal
 
 ## Tech Stack and technologies used
 
