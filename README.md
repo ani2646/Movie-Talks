@@ -1,6 +1,6 @@
-## CineMatch
+## movieTalks
 
-CineMatch is a movie recommendation system that suggests what films you should watch next based on your preferences and viewing history.
+movieTalks is a movie recommendation system that suggests what films you should watch next based on your preferences and viewing history.
 
 ## Contributors:
 * Akshat Goyal
@@ -25,32 +25,9 @@ CineMatch is a movie recommendation system that suggests what films you should w
 
 ## How It Works
 
-CineMatch uses advanced algorithms to analyze your movie preferences and viewing history. It then compares this data with our extensive movie database to suggest films you're likely to enjoy.
+movieTalks uses advanced algorithms to analyze your movie preferences and viewing history. It then compares this data with our extensive movie database to suggest films you're likely to enjoy.
 
-## Getting Started
 
-To use CineMatch, follow these steps:
-
-1. **Clone the repository:**
-   ```sh
-      git clone https://github.com/chetanyamahana/Cine-Match.git
-      cd cine-match
-   ```
-2. **Create and activate a virtual environment:**
-   ```sh
-      virtualenv env
-      .\env\Scripts\activate.ps1  
-   ```
-3. **Install the required packages:**
-    ```sh
-        pip install -r requirements.txt
-    ```
-
-4. **Running the Application:**
-- Run the Flask application:
-  ```sh
-     python app.py
-  ```
    
 
 
